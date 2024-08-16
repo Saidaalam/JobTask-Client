@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Apple iPhone 14 Pro",
+    "brand": "Apple",
+    "image": "https://i.postimg.cc/dtRDmjsS/Apple-i-Phone-14-Pro.png",
+    "description": "6.1-inch Super Retina XDR display, A16 Bionic chip, 5G capable.",
+    "price": 999,
+    "category": "Smartphones",
+    "ratings": 4.7,
+    "createdAt": "2024-06-01T10:00:00Z"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "brand": "Samsung",
+    "image": "https://i.postimg.cc/3xCpx4G5/Samsung-Galaxy-S23-Ultra.jpg",
+    "description": "6.8-inch Dynamic AMOLED display, Snapdragon 8 Gen 2, 5G capable.",
+    "price": 1199,
+    "category": "Smartphones",
+    "ratings": 4.8,
+    "createdAt": "2024-05-15T12:30:00Z"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "image": "https://i.postimg.cc/05b4L9bp/Sony-WH-1000-XM5.jpg",
+    "description": "Noise-canceling wireless headphones with up to 30 hours of battery life.",
+    "price": 349,
+    "category": "Headphones",
+    "ratings": 4.6,
+    "createdAt": "2024-03-10T14:45:00Z"
+  },
+  {
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "image": "https://i.postimg.cc/0jXKgpjq/Dell-XPS-13.png",
+    "description": "13.3-inch InfinityEdge display, Intel Core i7, 16GB RAM, 512GB SSD.",
+    "price": 1299,
+    "category": "Laptops",
+    "ratings": 4.5,
+    "createdAt": "2024-04-21T09:30:00Z"
+  },
+  {
+    "name": "Apple MacBook Pro 14-inch",
+    "brand": "Apple",
+    "image": "https://i.postimg.cc/4dJgV3B9/Apple-Mac-Book-Pro-14-inch.png",
+    "description": "M2 Pro chip, 16GB RAM, 512GB SSD, 14-inch Liquid Retina XDR display.",
+    "price": 1999,
+    "category": "Laptops",
+    "ratings": 4.9,
+    "createdAt": "2024-02-28T11:20:00Z"
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "brand": "Bose",
+    "image": "https://i.postimg.cc/cJcqxS04/Bose-Quiet-Comfort-45.webp",
+    "description": "Wireless noise-canceling headphones with up to 24 hours of battery life.",
+    "price": 329,
+    "category": "Headphones",
+    "ratings": 4.7,
+    "createdAt": "2024-03-25T13:55:00Z"
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "brand": "Apple",
+    "image": "https://i.postimg.cc/PrmNQszj/Apple-Watch-Series-8.jpg",
+    "description": "Always-On Retina display, ECG app, blood oxygen sensor, and more.",
+    "price": 399,
+    "category": "Smartwatches",
+    "ratings": 4.8,
+    "createdAt": "2024-01-10T08:00:00Z"
+  },
+  {
+    "name": "Fitbit Charge 5",
+    "brand": "Fitbit",
+    "image": "https://i.postimg.cc/6qWnkCzp/Fitbit-Charge-5.png",
+    "description": "Advanced fitness tracker with built-in GPS, heart rate monitor, and sleep tracking.",
+    "price": 149,
+    "category": "Smartwatches",
+    "ratings": 4.4,
+    "createdAt": "2024-03-05T07:45:00Z"
+  },
+  {
+    "name": "Logitech MX Master 3",
+    "brand": "Logitech",
+    "image": "https://i.postimg.cc/bJT29s8c/Logitech-MX-Master-3.jpg",
+    "description": "Ergonomic wireless mouse with customizable buttons and ultra-fast scrolling.",
+    "price": 99,
+    "category": "Accessories",
+    "ratings": 4.7,
+    "createdAt": "2024-04-02T10:10:00Z"
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "brand": "Microsoft",
+    "image": "https://i.postimg.cc/QxVWc8yw/Microsoft-Surface-Laptop-5.jpg",
+    "description": "13.5-inch PixelSense display, Intel Core i5, 8GB RAM, 256GB SSD.",
+    "price": 999,
+    "category": "Laptops",
+    "ratings": 4.6,
+    "createdAt": "2024-05-01T11:30:00Z"
+  },
+  {
+    "name": "Canon EOS R6",
+    "brand": "Canon",
+    "image": "https://i.postimg.cc/T3MgTJQR/Canon-EOS-R6.jpg",
+    "description": "Mirrorless camera with 20.1 MP full-frame CMOS sensor and 4K video recording.",
+    "price": 2499,
+    "category": "Cameras",
+    "ratings": 4.9,
+    "createdAt": "2024-02-05T15:40:00Z"
+  },
+  {
+    "name": "Nikon Z6 II",
+    "brand": "Nikon",
+    "image": "https://i.postimg.cc/d3gQ2Y7c/Nikon-Z6-II.jpg",
+    "description": "Mirrorless camera with 24.5 MP full-frame sensor and dual EXPEED 6 processors.",
+    "price": 1999,
+    "category": "Cameras",
+    "ratings": 4.8,
+    "createdAt": "2024-04-18T10:05:00Z"
+  },
+  {
+    "name": "Samsung Galaxy Tab S8",
+    "brand": "Samsung",
+    "image": "https://i.postimg.cc/zGCDg484/Samsung-Galaxy-Tab-S8.jpg",
+    "description": "11-inch display, Snapdragon 888, 8GB RAM, 128GB storage, S Pen included.",
+    "price": 699,
+    "category": "Tablets",
+    "ratings": 4.5,
+    "createdAt": "2024-06-12T09:15:00Z"
+  },
+  {
+    "name": "Apple iPad Pro 12.9-inch",
+    "brand": "Apple",
+    "image": "https://i.postimg.cc/SxdsPH3C/Apple-i-Pad-Pro-12-9-inch.jpg",
+    "description": "M2 chip, Liquid Retina XDR display, 5G capable, and Apple Pencil support.",
+    "price": 1099,
+    "category": "Tablets",
+    "ratings": 4.9,
+    "createdAt": "2024-03-21T14:00:00Z"
+  },
+  {
+    "name": "Asus ROG Strix G15",
+    "brand": "Asus",
+    "image": "https://i.postimg.cc/2Skjn2y6/Asus-ROG-Strix-G15.jpg",
+    "description": "15.6-inch FHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, RTX 3070.",
+    "price": 1699,
+    "category": "Laptops",
+    "ratings": 4.7,
+    "createdAt": "2024-04-25T13:10:00Z"
+  },
+  {
+    "name": "HP Spectre x360",
+    "brand": "HP",
+    "image": "https://i.postimg.cc/BQZRgyTd/HP-Spectre-x360.jpg",
+    "description": "13.3-inch 4K OLED display, Intel Core i7, 16GB RAM, 512GB SSD.",
+    "price": 1399,
+    "category": "Laptops",
+    "ratings": 4.6,
+    "createdAt": "2024-05-30T16:25:00Z"
+  },
+  {
+    "name": "Google Pixel 7 Pro",
+    "brand": "Google",
+    "image": "https://i.postimg.cc/yYWvWzXY/Google-Pixel-7-Pro.jpg",
+    "description": "6.7-inch AMOLED display, Google Tensor G3, 12GB RAM, 5G capable.",
+    "price": 899,
+    "category": "Smartphones",
+    "ratings": 4.7,
+    "createdAt": "2024-01-20T17:35:00Z"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "brand": "Sony",
+    "image": "https://i.postimg.cc/zDyxGrkD/Sony-Play-Station-5.png",
+    "description": "Next-gen gaming console with 8K support, ultra-high-speed SSD, and DualSense controller.",
+    "price": 499,
+    "category": "Gaming",
+    "ratings": 4.9,
+    "createdAt": "2024-02-08T12:45:00Z"
+  },
+  {
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "image": "https://i.postimg.cc/9M5Q7LRM/Xbox-Series-X.jpg",
+    "description": "Powerful gaming console with 12 teraflops of processing power and 1TB SSD.",
+    "price": 499,
+    "category": "Gaming",
+    "ratings": 4.8,
+    "createdAt": "2024-03-18T11:10:00Z"
+  },
+  {
+    "name": "Razer BlackWidow V3",
+    "brand": "Razer",
+    "image": "https://i.postimg.cc/BZCnjcqS/Razer-Black-Widow-V3.jpg",
+    "description": "Mechanical gaming keyboard with RGB lighting and customizable macros.",
+    "price": 149,
+    "category": "Accessories",
+    "ratings": 4.7,
+    "createdAt": "2024-04-05T14:25:00Z"
+  },
+  {
+    "name": "Amazon Echo Dot 5th Gen",
+    "brand": "Amazon",
+    "image": "https://i.postimg.cc/YCvrD5Q0/Amazon-Echo-Dot-5th-Gen.jpg",
+    "description": "Smart speaker with Alexa voice control, improved sound, and compact design.",
+    "price": 49,
+    "category": "Smart Home",
+    "ratings": 4.6,
+    "createdAt": "2024-05-12T10:50:00Z"
+  },
+  {
+    "name": "Google Nest Hub Max",
+    "brand": "Google",
+    "image": "https://i.postimg.cc/CMJwhhNd/Google-Nest-Hub-Max.png",
+    "description": "Smart display with Google Assistant, 10-inch screen, and built-in camera.",
+    "price": 229,
+    "category": "Smart Home",
+    "ratings": 4.7,
+    "createdAt": "2024-01-14T15:05:00Z"
+  },
+  {
+    "name": "Philips Hue Starter Kit",
+    "brand": "Philips",
+    "image": "https://i.postimg.cc/cH9k51M2/Philips-Hue-Starter-Kit.jpg",
+    "description": "Smart lighting kit with 3 color-changing bulbs and a bridge for voice control.",
+    "price": 179,
+    "category": "Smart Home",
+    "ratings": 4.8,
+    "createdAt": "2024-03-01T13:35:00Z"
+  },
+  {
+    "name": "Ring Video Doorbell Pro 2",
+    "brand": "Ring",
+    "image": "https://i.postimg.cc/tCCW4tb3/Ring-Video-Doorbell-Pro-2.png",
+    "description": "Smart doorbell with 1536p video, HDR, and two-way talk.",
+    "price": 249,
+    "category": "Smart Home",
+    "ratings": 4.6,
+    "createdAt": "2024-02-27T09:25:00Z"
+  },
+  {
+    "name": "Anker PowerCore 26800mAh",
+    "brand": "Anker",
+    "image": "https://i.postimg.cc/mgW4VPZX/Anker-Power-Core-26800m-Ah.png",
+    "description": "Portable charger with 3 USB ports and fast charging capability.",
+    "price": 79,
+    "category": "Accessories",
+    "ratings": 4.8,
+    "createdAt": "2024-04-15T11:50:00Z"
+  },
+  {
+    "name": "GoPro HERO11 Black",
+    "brand": "GoPro",
+    "image": "https://i.postimg.cc/JzRrLPW8/Go-Pro-HERO11-Black.png",
+    "description": "Waterproof action camera with 5.3K video, 23MP photos, and HyperSmooth stabilization.",
+    "price": 499,
+    "category": "Cameras",
+    "ratings": 4.7,
+    "createdAt": "2024-03-22T10:30:00Z"
+  },
+  {
+    "name": "DJI Mini 3 Pro",
+    "brand": "DJI",
+    "image": "https://i.postimg.cc/65YS4T24/DJI-Mini-3-Pro.jpg",
+    "description": "Compact drone with 4K video, 34-minute flight time, and advanced obstacle avoidance.",
+    "price": 899,
+    "category": "Drones",
+    "ratings": 4.8,
+    "createdAt": "2024-02-18T08:15:00Z"
+  },
+  {
+    "name": "Sonos One Gen 2",
+    "brand": "Sonos",
+    "image": "https://i.postimg.cc/g2j78ZVR/Sonos-One-Gen-2.png",
+    "description": "Smart speaker with voice control, multi-room audio, and rich sound quality.",
+    "price": 199,
+    "category": "Smart Home",
+    "ratings": 4.7,
+    "createdAt": "2024-04-08T12:20:00Z"
+  },
+  {
+    "name": "JBL Charge 5",
+    "brand": "JBL",
+    "image": "https://i.postimg.cc/FRyCNgvt/JBL-Charge-5.png",
+    "description": "Portable Bluetooth speaker with IP67 waterproof rating and up to 20 hours of playtime.",
+    "price": 179,
+    "category": "Speakers",
+    "ratings": 4.6,
+    "createdAt": "2024-01-29T09:40:00Z"
+  },
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "image": "https://i.postimg.cc/qBFF0qYk/Samsung-Galaxy-Watch-6.jpg",
+    "description": "Smartwatch with advanced health monitoring, GPS, and long battery life.",
+    "price": 349,
+    "category": "Smartwatches",
+    "ratings": 4.7,
+    "createdAt": "2024-02-14T10:55:00Z"
+  },
+  {
+    "name": "Roku Streaming Stick 4K",
+    "brand": "Roku",
+    "image": "https://i.postimg.cc/W1spm57Y/Roku-Streaming-Stick-4-K.png",
+    "description": "4K streaming device with voice remote and TV controls.",
+    "price": 49,
+    "category": "Accessories",
+    "ratings": 4.8,
+    "createdAt": "2024-03-30T14:40:00Z"
+  },
+  {
+    "name": "Apple AirPods Pro 2",
+    "brand": "Apple",
+    "image": "https://i.postimg.cc/VNVY8mP2/Apple-Air-Pods-Pro-2.png",
+    "description": "Wireless earbuds with active noise cancellation, transparency mode, and spatial audio.",
+    "price": 249,
+    "category": "Headphones",
+    "ratings": 4.9,
+    "createdAt": "2024-04-16T13:50:00Z"
+  },
+  {
+    "name": "Beats Fit Pro",
+    "brand": "Beats",
+    "image": "https://i.postimg.cc/QxJhMprQ/Beats-Fit-Pro.jpg",
+    "description": "True wireless earbuds with secure-fit wingtips, noise cancellation, and IPX4 rating.",
+    "price": 199,
+    "category": "Headphones",
+    "ratings": 4.6,
+    "createdAt": "2024-03-07T11:00:00Z"
+  },
+  {
+    "name": "Dyson V11 Torque Drive",
+    "brand": "Dyson",
+    "image": "https://i.postimg.cc/nzSjsNpq/Dyson-V11-Torque-Drive.jpg",
+    "description": "Cordless vacuum cleaner with powerful suction and up to 60 minutes of runtime.",
+    "price": 699,
+    "category": "Home Appliances",
+    "ratings": 4.8,
+    "createdAt": "2024-01-17T08:50:00Z"
+  },
+  {
+    "name": "Instant Pot Duo Evo Plus",
+    "brand": "Instant Pot",
+    "image": "https://i.postimg.cc/wxtcXQZ9/Instant-Pot-Duo-Evo-Plus.jpg",
+    "description": "10-in-1 electric pressure cooker with 48 customizable presets.",
+    "price": 149,
+    "category": "Kitchen Appliances",
+    "ratings": 4.7,
+    "createdAt": "2024-02-06T15:15:00Z"
+  },
+  {
+    "name": "KitchenAid Artisan Stand Mixer",
+    "brand": "KitchenAid",
+    "image": "https://i.postimg.cc/XYxCSrm2/Kitchen-Aid-Artisan-Stand-Mixer.jpg",
+    "description": "Iconic stand mixer with 5-quart bowl and over 10 optional attachments.",
+    "price": 429,
+    "category": "Kitchen Appliances",
+    "ratings": 4.9,
+    "createdAt": "2024-03-14T11:25:00Z"
+  },
+  {
+    "name": "Nespresso VertuoPlus",
+    "brand": "Nespresso",
+    "image": "https://i.postimg.cc/C1gcdf08/Nespresso-Vertuo-Plus.png",
+    "description": "Single-serve coffee and espresso machine with Centrifusion technology.",
+    "price": 179,
+    "category": "Kitchen Appliances",
+    "ratings": 4.8,
+    "createdAt": "2024-04-11T09:05:00Z"
+  },
+  {
+    "name": "Breville Barista Express",
+    "brand": "Breville",
+    "image": "https://i.postimg.cc/bNJ3Gh7m/Breville-Barista-Express.png",
+    "description": "Espresso machine with built-in grinder and steam wand for microfoam milk.",
+    "price": 699,
+    "category": "Kitchen Appliances",
+    "ratings": 4.8,
+    "createdAt": "2024-05-05T12:15:00Z"
+  },
+  {
+    "name": "Samsung Galaxy Buds 2 Pro",
+    "brand": "Samsung",
+    "image": "https://i.postimg.cc/cJZ3n7Kd/Samsung-Galaxy-Buds-2-Pro.jpg",
+    "description": "True wireless earbuds with active noise cancellation and 360 Audio.",
+    "price": 229,
+    "category": "Headphones",
+    "ratings": 4.6,
+    "createdAt": "2024-02-13T08:35:00Z"
+  },
+  {
+    "name": "Garmin Forerunner 955",
+    "brand": "Garmin",
+    "image": "https://i.postimg.cc/BbsSng12/Garmin-Forerunner-955.png",
+    "description": "Advanced GPS running watch with heart rate monitoring and music storage.",
+    "price": 499,
+    "category": "Wearables",
+    "ratings": 4.7,
+    "createdAt": "2024-03-24T07:55:00Z"
+  },
+  {
+    "name": "Fujifilm X-T5",
+    "brand": "Fujifilm",
+    "image": "https://i.postimg.cc/R0H4187c/Fujifilm-X-T5.jpg",
+    "description": "Mirrorless camera with 40MP APS-C sensor and 6K video recording.",
+    "price": 1699,
+    "category": "Cameras",
+    "ratings": 4.8,
+    "createdAt": "2024-04-04T11:45:00Z"
+  },
+  {
+    "name": "Canon PIXMA TR8620a",
+    "brand": "Canon",
+    "image": "https://i.postimg.cc/zBvVCxqY/Canon-PIXMA-TR8620a.jpg",
+    "description": "All-in-one wireless printer with Auto Document Feeder and 4.3-inch LCD touchscreen.",
+    "price": 199,
+    "category": "Printers",
+    "ratings": 4.5,
+    "createdAt": "2024-02-26T16:00:00Z"
+  },
+  {
+    "name": "Logitech G Pro Wireless",
+    "brand": "Logitech",
+    "image": "https://i.postimg.cc/x1NWBmXQ/Logitech-G-Pro-Wireless.jpg",
+    "description": "Lightweight wireless gaming mouse with HERO 25K sensor and RGB lighting.",
+    "price": 129,
+    "category": "Accessories",
+    "ratings": 4.8,
+    "createdAt": "2024-01-21T10:05:00Z"
+  },
+  {
+    "name": "Apple Magic Keyboard for iPad",
+    "brand": "Apple",
+    "image": "https://i.postimg.cc/xdCz5fPZ/Apple-Magic-Keyboard-for-i-Pad.png",
+    "description": "Keyboard with trackpad for iPad Pro and iPad Air, with floating cantilever design.",
+    "price": 349,
+    "category": "Accessories",
+    "ratings": 4.7,
+    "createdAt": "2024-03-26T09:35:00Z"
+  },
+  {
+    "name": "Corsair K95 RGB Platinum XT",
+    "brand": "Corsair",
+    "image": "https://i.postimg.cc/JnXtYGHp/Corsair-K95-RGB-Platinum-XT.png",
+    "description": "Mechanical gaming keyboard with per-key RGB lighting and programmable macro keys.",
+    "price": 199,
+    "category": "Accessories",
+    "ratings": 4.8,
+    "createdAt": "2024-02-12T13:30:00Z"
+  },
+  {
+    "name": "Samsung Odyssey G9",
+    "brand": "Samsung",
+    "image": "https://i.postimg.cc/63xB3zTh/Samsung-Odyssey-G9.png",
+    "description": "49-inch ultrawide curved gaming monitor with 240Hz refresh rate and HDR1000.",
+    "price": 1599,
+    "category": "Monitors",
+    "ratings": 4.9,
+    "createdAt": "2024-03-13T16:55:00Z"
+  },
+  {
+    "name": "Dell UltraSharp U2720Q",
+    "brand": "Dell",
+    "image": "https://i.postimg.cc/d15NXVMT/Dell-Ultra-Sharp-U2720-Q.png",
+    "description": "27-inch 4K IPS monitor with USB-C connectivity and wide color coverage.",
+    "price": 749,
+    "category": "Monitors",
+    "ratings": 4.7,
+    "createdAt": "2024-02-11T15:20:00Z"
+  }
+]
